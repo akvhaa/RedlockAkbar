@@ -10,15 +10,12 @@ CREATE TABLE users (
 );
 
 INSERT INTO users VALUES
-(1, 'Simon', 'Tangerang', 'Ketua'),
-(2, 'Peter', 'Surabaya', 'Wakil Ketua'),
-(3, 'Jakob', 'Kupang', 'Sekretaris'),
-(4, 'Bedeus', 'Bali', 'Bendahara'),
-(5, 'Yohan', 'Bekasi', 'Asisten Sekretaris'),
-(6, 'Filip', 'Depok', 'Seksi Kedisplinan'),
-(7, 'Bart', 'Bekasi', 'Seksi Keamanan'),
-(8, 'Tomas', 'Tebet', 'Seksi Acara'),
-(9, 'Yuda', 'Kemang', 'Seksi Konsumsi'),
-(10, 'Iskar', 'Tambun', 'Seksi Perlengkapan');
+(1, 'Ajai', 'Kemanggisan', 'CEO'),
+(2, 'Nathan', 'Senayan', 'Manager'),
+(3, 'Marcheria', 'palmerah', 'Sales Manager'),
+(4, 'Qudshi', 'jlpanjang', 'Sales'),
+(5, 'Alfred', 'Bekasi', 'Storage Manager'),
+(6, 'Saskia', '9kotak', 'Customer'),
+(7, 'Setiawan', 'Tambun', 'Customer'),
 
 
